@@ -4,6 +4,11 @@ Environment to practice react with webpack &amp; babel
 
 Full setup to start building with React!
 
-::: TO RUN :::
+::: <strong>TO RUN<strong> :::
 
-clone/download & run npm start - will run webpack-dev-server on localhost:3333
+<ol>
+<li>Clone / Download</li>
+<li>cd to directory</li>
+<li>run npm install</li>
+<li>run npm start</li>
+</ol>
