@@ -1,3 +1,5 @@
+//LAST updated 20DEC16, probably deprecated by now
+
 # React-Template
 Environment to practice react with webpack &amp; babel
 
